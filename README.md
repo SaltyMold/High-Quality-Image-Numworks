@@ -1,4 +1,4 @@
-<h1 align="center">Display cheatsheet or any high quality image on the Numworks Calculator</h1>
+<h1 align="center">Display cheatsheet or any high quality image on the Numworks calculator</h1>
 <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/Version-1.1.1-blue?style=for-the-badge&color=blue">
     <img alt="Stars" src="https://img.shields.io/github/stars/SaltyMold/Cheatsheet-Numworks?style=for-the-badge&color=magenta">
