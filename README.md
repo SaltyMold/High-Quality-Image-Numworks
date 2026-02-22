@@ -28,6 +28,9 @@ To install this app, you'll need to:
 | OK         | Zoom in           |
 | Back       | Zoom out          |
 
+> [!CAUTION]
+> The cheetsheet is hiden inside a periodic table. To access it, go to the Carbon element and press the key "9" five times.
+
 ## 🛠️ Build the app
 
 I made tutorials here :
